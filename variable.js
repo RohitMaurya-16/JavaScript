@@ -12,7 +12,7 @@ accountCity="Lucknow"
 /* Prefer not to use var datatype
 because of issue in block scope and Functional Scope */
 
-// You can reserve space for variable without datatype but this is a not good way to write code
+// You can reserve space for variable without its type but this is a not good way to write code
 
 console.log(accountId);
 
