@@ -21,3 +21,15 @@ while (true) {
         }
     }
 }
+
+/* You want a program where:
+
+It runs continuously.
+
+If user enters a number that is a multiple of 5 (or any number you choose), it should print it.
+
+If user enters a wrong number (not a multiple), then first time it gives the power/square result.
+
+Next wrong entry, it should exit.
+
+But if after a wrong entry, the next input is again a multiple, the game should continue. */
