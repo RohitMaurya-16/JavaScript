@@ -23,7 +23,7 @@ console.log(typeof null);        // ⚠️ "object" (this is a JavaScript bug/qu
 // ============================
 // 🔹 Non-Primitive (Reference) Data Types
 // ============================
-// Array, Object, Function
+// Array, Object, Function 
 
 // Array
 const heros = ["superman", "captain usa"];
