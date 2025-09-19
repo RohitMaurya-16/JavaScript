@@ -60,3 +60,6 @@ console.log(`Hello, My name is ${name} and I have ${repoCount} repos.`);
 // ------------------ Conversion ------------------
 console.log(String(123));   // "123"
 console.log((123).toString()); // "123"
+
+
+// Learn carefully
